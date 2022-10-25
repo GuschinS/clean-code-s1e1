@@ -47,9 +47,10 @@ ul {
   padding: 0px;
 }
 
-/* li, h3 {
-  list-style:none;
-} */
+li,
+h3 {
+  list-style: none;
+}
 
 input,
 button {
